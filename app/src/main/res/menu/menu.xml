@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/menu_item_share"
+        android:layout_height="match_parent"
+        android:icon="@drawable/ic_share_white_nobackground_24dp"
+        android:orderInCategory="100"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"
+        tools:context="com.patru20.dan.newsreader.activities.DisplayNewsElementActivity"
+         />
+
+</menu>

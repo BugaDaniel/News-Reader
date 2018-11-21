@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="news_photo">news_photo</string>
+    <string name="news_image">news_image</string>
+    <string name="share">Share</string>
+    <string name="visit_website">Visit Website</string>
+</resources>
